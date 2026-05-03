@@ -93,7 +93,7 @@
 ## 📫 Contato
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin"/></a><www.linkedin.com/in/luannabento>
+  <a href="www.linkedin.com/in/luannabento"><img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="mailto:seuemail@email.com"><img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail"/></a>
 </p>
 
