@@ -1,102 +1,116 @@
-# 👩‍💻✨ Portfólio de Análise de Dados
+<h1 align="center">👩‍💻✨ Portfólio de Análise de Dados</h1>
 
-Bem-vindo(a) ao meu portfólio! 🚀  
-Aqui você encontrará projetos práticos de análise de dados, com foco em transformar dados em insights estratégicos e acionáveis.
+<p align="center">
+  🚀 Transformando dados em decisões estratégicas
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/SQL-Database-black?style=for-the-badge&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/PowerBI-Dashboard-yellow?style=for-the-badge&logo=powerbi"/>
+  <img src="https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge&logo=microsoft-excel"/>
+</p>
 
 ---
 
 ## 🧠 Sobre mim
 
-🎯 Analista de Dados apaixonado(a) por resolver problemas com dados  
-📊 Experiência com análise exploratória, visualização e storytelling  
-💡 Foco em gerar valor através de insights claros e objetivos  
+🎯 Analista de Dados focado(a) em gerar insights acionáveis  
+📊 Experiência com análise exploratória, modelagem e visualização  
+💡 Mentalidade orientada a dados e resolução de problemas  
+🚀 Sempre buscando evoluir e aprender novas tecnologias  
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## ⚡ Tech Stack
 
-### 💻 Linguagens
-- Python 🐍  
-- SQL 🗄️  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,git,github"/>
+</p>
 
-### 📊 Análise & Visualização
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn  
-- Power BI 📈  
-
-### ⚙️ Outros
-- Excel Avançado  
-- Git & GitHub  
-- Jupyter Notebook  
+📊 **Data Analysis:** Pandas | NumPy | Matplotlib | Seaborn  
+📈 **BI Tools:** Power BI  
+🛠️ **Outros:** Excel Avançado | Jupyter Notebook  
 
 ---
 
-## 📂 Projetos
+## 📂 Projetos em Destaque
 
 ### 📊 Análise de Vendas
-🔍 Exploração de dados de vendas para identificar padrões e oportunidades de crescimento  
+🔍 Identificação de padrões e oportunidades de crescimento  
 
-**📌 Principais insights:**
-- Produtos mais vendidos  
-- Sazonalidade  
-- Performance por região  
+**Insights:**
+- 📌 Produtos mais vendidos  
+- 📌 Sazonalidade de vendas  
+- 📌 Performance regional  
 
-🔗 [Ver projeto](#)
-
----
-
-### 📈 Dashboard Interativo
-📊 Criação de dashboard no Power BI para acompanhamento de KPIs  
-
-**📌 Destaques:**
-- Visualizações dinâmicas  
-- Indicadores de performance  
-- Interface amigável  
-
-🔗 [Ver projeto](#)
+🔗 [Acessar projeto](#)
 
 ---
 
-### 🧹 Limpeza e Tratamento de Dados
-🛠️ Processo completo de limpeza de dados brutos  
+### 📈 Dashboard de KPIs
+📊 Dashboard interativo para tomada de decisão  
 
-**📌 Etapas:**
-- Tratamento de valores nulos  
-- Padronização  
-- Remoção de inconsistências  
+**Destaques:**
+- ⚡ Visualização dinâmica  
+- 📊 Indicadores estratégicos  
+- 🎯 Foco em negócio  
 
-🔗 [Ver projeto](#)
+🔗 [Acessar projeto](#)
 
 ---
 
-## 🌟 Destaques
+### 🧹 Data Cleaning & Preparation
+🛠️ Tratamento completo de dados brutos  
 
-✨ Projetos com foco em problemas reais  
-📊 Visualizações claras e objetivas  
-📈 Orientação a resultados  
+**Processos:**
+- ✔️ Remoção de inconsistências  
+- ✔️ Tratamento de nulos  
+- ✔️ Padronização de dados  
+
+🔗 [Acessar projeto](#)
+
+---
+
+## 📊 Estatísticas GitHub
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 Diferenciais
+
+✨ Foco em problemas reais de negócio  
+📊 Storytelling com dados  
+📈 Visualizações estratégicas  
+⚡ Comunicação clara de insights  
 
 ---
 
 ## 📫 Contato
 
-📧 Email: seuemail@email.com  
-💼 LinkedIn: [Seu LinkedIn](#)  
-🐙 GitHub: [Seu GitHub](#)  
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:seuemail@email.com"><img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail"/></a>
+</p>
 
 ---
 
 ## 🚀 Objetivo
 
-Busco oportunidades como Analista de Dados para aplicar minhas habilidades em ambientes desafiadores e orientados a dados.
+Atuar como Analista de Dados, contribuindo com insights estratégicos e soluções orientadas a dados em ambientes inovadores.
 
 ---
 
-## 💡 Frase
+## 💡 Filosofia
 
 > "Sem dados, você é apenas mais uma pessoa com uma opinião."
 
 ---
 
-⭐ Se você gostou do meu portfólio, não esqueça de deixar uma estrela!
+<p align="center">
+  ⭐ Se gostou do meu portfólio, deixe uma estrela!
+</p>
