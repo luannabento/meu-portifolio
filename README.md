@@ -30,7 +30,7 @@
 
 📊 **Data Analysis:** Pandas | NumPy | Matplotlib | Seaborn  
 📈 **BI Tools:** Power BI  
-🛠️ **Outros:** Excel Avançado | Jupyter Notebook  
+🛠️ **Outros:** Excel Avançado | Jupyter Notebook  | VS Code 
 
 ---
 
