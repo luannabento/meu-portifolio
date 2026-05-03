@@ -93,7 +93,7 @@
 ## 📫 Contato
 
 <p align="center">
-  <a href="www.linkedin.com/in/luannabento" target="_blank">
+  <a href="[www.linkedin.com/in/luannabento](https://www.linkedin.com/in/luannabento/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:seuemail@email.com">
