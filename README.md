@@ -44,7 +44,7 @@
 - 📌 Sazonalidade de vendas  
 - 📌 Performance regional  
 
-🔗 [Acessar projeto](#)
+🔗 [Acessar projeto](<https://github.com/luannabento/meu-portifolio/blob/main/projeto_inicial.py>)
 
 ---
 
