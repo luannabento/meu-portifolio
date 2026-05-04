@@ -22,33 +22,14 @@
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Tech Stack 
 
-<p align="center">
-  <!-- Linguagens e ferramentas principais -->
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode"/>
-</p>
-
-<p align="center">
-  <!-- Bibliotecas de dados -->
-  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?style=for-the-badge&logo=numpy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557c?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-Statistical%20Viz-4c72b0?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <!-- BI e ferramentas -->
-  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel"/>
-</p>
-
----
-
-📊 **Data Analysis:** Pandas | NumPy | Matplotlib | Seaborn
-📈 **BI Tools:** Power BI
+<p align="center"> 
+    <img src="https://skillicons.dev/icons?i=python,sql,git,github"/> </p> 
+    
+📊 **Data Analysis:** Pandas | NumPy | Matplotlib | Seaborn 
+📈 **BI Tools:** Power BI 
 🛠️ **Outros:** Excel Avançado | VS Code
-
 
 ---
 
