@@ -25,12 +25,12 @@
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,git,github"/>
+  <img src="https://skillicons.dev/icons?i=python,sql,git,github,pandas,numpay,matplotlib,seaborn,excel,powerbi,vscode"/>
 </p>
 
 📊 **Data Analysis:** Pandas | NumPy | Matplotlib | Seaborn  
 📈 **BI Tools:** Power BI  
-🛠️ **Outros:** Excel Avançado | Jupyter Notebook  | VS Code 
+🛠️ **Outros:** Excel Avançado | VS Code 
 
 ---
 
