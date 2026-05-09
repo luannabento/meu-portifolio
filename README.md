@@ -27,8 +27,8 @@
 <p align="center"> 
     <img src="https://skillicons.dev/icons?i=python,sql,git,github"/> </p> 
     
-📊 **Data Analysis:** Pandas | NumPy | Matplotlib | Seaborn 
-📈 **BI Tools:** Power BI 
+📊 **Data Analysis:** Pandas | NumPy | Matplotlib | Seaborn
+📈 **BI Tools:** Power BI
 🛠️ **Outros:** Excel Avançado | VS Code
 
 ---
@@ -36,12 +36,15 @@
 ## 📂 Projetos em Destaque
 
 ### 📊 Análise de Vendas
-🔍 Identificação de padrões e oportunidades de crescimento  
+🔍  Projeto de análise de vendas com tratamento de dados, indicadores e visualizações gráficas para geração de insights
 
 **Insights:**
-- 📌 Produtos mais vendidos  
-- 📌 Sazonalidade de vendas  
-- 📌 Performance regional  
+- 📌 Simulação e tratamento de dados de vendas em Python
+- 📌 Análise de faturamento por produto, região, mês e cliente
+- 📌 Criação de indicadores e visualizações gráficas
+- 📌 Uso de Pandas, NumPy, Matplotlib e Seaborn
+- 📌 Projeto voltado para análise exploratória de dados (EDA) e Data Analytics
+
 
 🔗 [Acessar projeto](<https://github.com/luannabento/meu-portifolio/blob/main/projeto_inicial.py>)
 
@@ -92,8 +95,10 @@
 ## 📫 Contato
 
 <p align="center">
-<a href="https://www.linkedin.com/in/luannabento/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/luannabento/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin"/>
   </a>
+
   <a href="mailto:luannafbento@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail"/>
   </a>
