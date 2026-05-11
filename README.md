@@ -1,4 +1,4 @@
-<h1 align="center">👩‍💻✨ Portfólio de Análise de Dados</h1>
+<h1 align="center">👩‍💻✨ Portfólio profissional
 
 <p align="center">
   🚀 Transformando dados em decisões estratégicas
